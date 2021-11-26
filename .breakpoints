@@ -1,0 +1,18 @@
+{
+  "files": {
+    "PatientList.txt": [
+      {
+        "id": "4f35acbf-1517-4b6d-a0ca-b7ef5f2928af",
+        "line": 2,
+        "version": 218,
+        "index": 3
+      },
+      {
+        "id": "6396564a-a748-4a83-a6ae-e2f3ff4a05f7",
+        "line": 5,
+        "version": 218,
+        "index": 21
+      }
+    ]
+  }
+}
